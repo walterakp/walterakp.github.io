@@ -17,6 +17,7 @@ project site, so it appears under this domain automatically:
 
 1. In the project repo: **Settings → Pages → Source: `main` / root**.
 2. Add a card for it in `index.html` here, linking to `repo-name/`.
+   Styles live in `style.css` — keep CSS out of the HTML.
 
 Do **not** set a custom domain on the project repos — the domain belongs to
 this repo only, and project sites inherit it.
