@@ -8,8 +8,8 @@ project site, so it appears under this domain automatically:
 
 | Project | URL |
 | --- | --- |
-| Jumping Game (Roomba Cat) | https://github.mowdesigns.ng/jumping-game/ |
-| Rock Paper Scissors UI | https://github.mowdesigns.ng/rock-paper-scissors-ui/ |
+| Roomba Cat | https://github.mowdesigns.ng/jumping-game/ |
+| Rock Paper Scissors | https://github.mowdesigns.ng/rock-paper-scissors-ui/ |
 | Calculator | https://github.mowdesigns.ng/calculator/ |
 | Escape the Evil AI | https://github.mowdesigns.ng/escape-the-evil-ai/ |
 
